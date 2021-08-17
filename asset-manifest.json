@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/konnect-arch/static/css/main.a617e044.chunk.css",
+    "main.js": "/konnect-arch/static/js/main.c6176375.chunk.js",
+    "main.js.map": "/konnect-arch/static/js/main.c6176375.chunk.js.map",
+    "runtime-main.js": "/konnect-arch/static/js/runtime-main.93e85359.js",
+    "runtime-main.js.map": "/konnect-arch/static/js/runtime-main.93e85359.js.map",
+    "static/css/2.da1eef19.chunk.css": "/konnect-arch/static/css/2.da1eef19.chunk.css",
+    "static/js/2.77e63a94.chunk.js": "/konnect-arch/static/js/2.77e63a94.chunk.js",
+    "static/js/2.77e63a94.chunk.js.map": "/konnect-arch/static/js/2.77e63a94.chunk.js.map",
+    "static/js/3.3b901f1d.chunk.js": "/konnect-arch/static/js/3.3b901f1d.chunk.js",
+    "static/js/3.3b901f1d.chunk.js.map": "/konnect-arch/static/js/3.3b901f1d.chunk.js.map",
+    "index.html": "/konnect-arch/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/konnect-arch/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/konnect-arch/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.77e63a94.chunk.js.LICENSE.txt": "/konnect-arch/static/js/2.77e63a94.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/konnect-arch/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93e85359.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.77e63a94.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c6176375.chunk.js"
+  ]
+}
